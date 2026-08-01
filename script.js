@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Background music setup
     // const bgMusic = new Audio('https://assets.mixkit.co/active_storage/sfx/123/123-preview.mp3');
-    const bgMusic = new Audio('./audio/bg_music_haal_kaisa_hai-1.mp3');
+    const bgMusic = new Audio('./audio/ytmp3free.cc_milky-x-david-guetta-just-the-way-you-are-lyric-video-youtubemp3free.org');
     bgMusic.loop = true;
     // const cardFlipSound = new Audio('https://assets.mixkit.co/sfx/preview/mixkit-game-card-flip-2517.wav');
     const cardFlipSound = new Audio('https://cdn.freesound.org/previews/442/442903_9359753-lq.mp3');
